@@ -29,7 +29,7 @@
 ![fiverr_link] https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white
 ![99freelas_link] -->
 
-<img align="right" width="200" height="400" src="https://i.pinimg.com/originals/05/85/c4/0585c4293586457719e5b769bb0e84f1.jpg">
+<img align="right" width="400" height="800" src="https://i.pinimg.com/originals/05/85/c4/0585c4293586457719e5b769bb0e84f1.jpg">
 
 ## **Nice to meet you!**
 
