@@ -5,7 +5,10 @@
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
  **Hello ! You can call me Leticia :-)**
-
+ 
+ **Quick things about me**
+ 
+Socials<br>
 <a href="site linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.behance.net/leticiacs-design"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
 
