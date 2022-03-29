@@ -6,13 +6,13 @@
 
  **Hello ! You can call me Leticia :-)**
 
-<a href="site linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.behance.net/leticiacs-design"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
-[site]
-[fiverr]
-[99freelas]
+![LinkedIn link]<a href="site linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+![Behance_link]<a href="https://www.behance.net/leticiacs-design"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
+![website_link]
+![fiverr_link]
+![99freelas_link]
 
-![alt text](image.jpg)
+![green_plant]<img src="https://i.pinimg.com/originals/05/85/c4/0585c4293586457719e5b769bb0e84f1.jpg")>
 <img align"right"alt="IMG" arc="https://i.pinimg.com/originals/05/85/c4/0585c4293586457719e5b769bb0e84f1.jpg")>
 
 **Nice to meet you!**
