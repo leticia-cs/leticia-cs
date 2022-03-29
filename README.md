@@ -54,7 +54,7 @@ I am a design student from Brazil with a passion for interfaces and finding ways
 
 ### **Stats**
 
-<a href="Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username={leticia-cs}"></a>
+<a href="Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-cs"></a>
 
 ### Here is a frog 𓆏
 
