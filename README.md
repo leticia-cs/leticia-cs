@@ -9,18 +9,33 @@
  ## **Quick things about me**
  
 ### **Socials** <br><br>
-<a href="site linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!--<a href="null"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
 <a href="https://www.behance.net/leticiacs-design"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
 
-![website_link]
-![fiverr_link]
-![99freelas_link]
+### **Programming languages** <br><br>
+<a href="Python"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<a href="JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+<a href="CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 
-<img align="right" width="100" height="100" src="https://i.pinimg.com/originals/05/85/c4/0585c4293586457719e5b769bb0e84f1.jpg">
+<!--### **Spoken Languages** <br><br>
+<a href="PT-BR"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="EN-US"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>-->
+
+### **My system** <br><br>
+<a href="PC_OS"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="Mobile_OS"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+
+<!--
+![website_link]
+![fiverr_link] https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white
+![99freelas_link] -->
+
+<img align="right" width="200" height="400" src="https://i.pinimg.com/originals/05/85/c4/0585c4293586457719e5b769bb0e84f1.jpg">
 
 ## **Nice to meet you!**
 
-I am a design student with a passion for interfaces and finding ways to help people. I like to make a change!
+I am a design student from Brazil with a passion for interfaces and finding ways to help people. I like to make a change!
 
 ## **What am I working on?**
 
@@ -31,6 +46,8 @@ I am a design student with a passion for interfaces and finding ways to help peo
   - Trying not to overcook my Strawberry Jam 🙃
 
 ## **Extra**
+
+### **Stats**
 
 Here is a frog 𓆏 --->
 
