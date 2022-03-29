@@ -22,9 +22,7 @@
 <a href="PT-BR"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="EN-US"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>-->
 
-### **My system** <br><br>
-<a href="PC_OS"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="Mobile_OS"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+
 
 <!--
 ![website_link]
@@ -47,11 +45,20 @@ I am a design student from Brazil with a passion for interfaces and finding ways
 
 ## **Extra**
 
+### **Hits**
+<a href="Hits"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"></a>
+
+### **My system** <br><br>
+<a href="PC_OS"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="Mobile_OS"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+
 ### **Stats**
 
-Here is a frog 𓆏 --->
+<a href="Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?leticia-cs={leticia-cs}"></a>
 
- 
+### Here is a frog 𓆏
+
+
 
 
 <!---
