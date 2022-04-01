@@ -6,13 +6,13 @@
 
  ### **Hello ! You can call me Leticia :-)**
  
-### **Quick things about me**
+#### **Quick things about me**
  
-### **Socials** <br><br>
+##### **Socials** <br><br>
 <!--<a href="null"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
 <a href="https://www.behance.net/leticiacs-design"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
 
-### **Programming languages** <br><br>
+##### **Programming languages** <br><br>
 <a href="Python"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 <a href="JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href="CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -45,18 +45,18 @@ I am a design student from Brazil with a passion for interfaces and finding ways
 
 ### **Extra**
 
-### **Hits**
+#### **Hits**
 <a href="Hits"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"></a>
 
-### **My system** <br><br>
+#### **My system** <br><br>
 <a href="PC_OS"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="Mobile_OS"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 
-### **Stats**
+#### **Stats**
 
 <a href="Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-cs"></a>
 
-### Here is a frog 𓆏
+#### Here is a frog 𓆏
 
 
 
