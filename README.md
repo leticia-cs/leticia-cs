@@ -1,15 +1,9 @@
-🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-⚠️ UNDER CONSTRUCTION ⚠️
-
-🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
  ### **Hello ! You can call me Leticia :-)**
  
 #### **Quick things about me**
  
 ##### **Socials** <br><br>
-<!--<a href="null"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
+<a href="https://www.linkedin.com/in/leticiacs-design/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.behance.net/leticiacs-design"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
 
 ##### **Programming languages** <br><br>
@@ -17,12 +11,6 @@
 <a href="JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href="CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-
-<!--### **Spoken Languages** <br><br>
-<a href="PT-BR"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="EN-US"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>-->
-
-
 
 <!--
 ![website_link]
