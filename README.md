@@ -1,4 +1,4 @@
- ### **Hello ! You can call me Leticia** <img src"https://static.wikia.nocookie.net/roblox/images/a/aa/Rubber_Duckie.png">
+ ### **Hello ! You can call me Leticia** <img src="https://static.wikia.nocookie.net/roblox/images/a/aa/Rubber_Duckie.png">
  
 #### **Quick things about me**
  
