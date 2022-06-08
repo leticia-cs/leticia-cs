@@ -15,8 +15,7 @@
 
 <!--
 ![website_link]
-![fiverr_link] https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white
-![99freelas_link] -->
+-->
 
 <img align="right" width="400" height="800" src="https://i.pinimg.com/originals/05/85/c4/0585c4293586457719e5b769bb0e84f1.jpg">
 
@@ -27,9 +26,8 @@ I am a design student from Brazil with a passion for interfaces and finding ways
 ### **What am I working on?**
 
   - This semester, my classes are focused on web and app development, but also on audio and video production. We have a bunch of projects currently on development.
-  - I recently started working as a freelancer on my free-time. So much knowledge, but still a lot to learn! I'm enjoying it
-  - Working on side projects to learn Python
-  - Investing five days a week on learning the web combo: HTML, CSS and JavaScript
+  - I am now officially an intern! I am working hard as a designer and earning for it. It is very satisfiying to learn practical skills and to meet the staff. My boss is actually very nice and a great help to my self-improvement.
+  - Investing my free time on learning the web combo: HTML, CSS and JavaScript.
   - Trying not to overcook my Strawberry Jam 🙃
 
 ### **Extra**
