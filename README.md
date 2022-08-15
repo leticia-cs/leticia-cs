@@ -7,11 +7,11 @@
 <a href="https://www.linkedin.com/in/leticiacs-design/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.behance.net/leticiacs-design"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
 
-##### **Programming languages** <br><br>
-<a href="Python"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-<a href="JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-<a href="CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+##### **Languages** <br><br>
 <a href="HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+<a href="Python"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 
 <!--
 ![website_link]
@@ -20,14 +20,12 @@
 <img align="right" width="400" height="800" src="https://i.pinimg.com/originals/05/85/c4/0585c4293586457719e5b769bb0e84f1.jpg">
 
 ### **Nice to meet you!**
-
-I am a design student from Brazil with a passion for interfaces and finding ways to help people. I like to make a change!
+I am a design student from Brazil with a passion for interfaces and finding ways to help people.
 
 ### **What am I working on?**
-
-  - This semester, my classes are focused on web and app development, but also on audio and video production. We have a bunch of projects currently on development.
-  - I am now officially an intern! I am working hard as a designer and earning for it. It is very satisfiying to learn practical skills and to meet the staff. My boss is actually very nice and a great help to my self-improvement.
-  - Investing my free time on learning the web combo: HTML, CSS and JavaScript.
+  - Currently majoring in Design at University.
+  - I am an intern on a content creation agency in Campinas-SP. I mostly design for social media, like Instagram, but I also make printables (posters, menus, outdoors). 
+  - Investing some of my free time on learning the web combo: HTML, CSS and JavaScript.
   - Trying not to overcook my Strawberry Jam 🙃
 
 ### **Extra**
