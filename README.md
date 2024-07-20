@@ -58,7 +58,7 @@ green by ?? <br>
 badges by <a href="https://github.com/aleen42/badges?tab=readme-ov-file">aleen42</a> <br>
 <span aria-hidden="true" class="icon">__________</span> <br>
 <br>
- [ last edit @ mar2024 ]
+ [ last edit @ jul2024 ]
 
 <!---
 leticia-cs/leticia-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
