@@ -12,7 +12,6 @@ software engineering student from Brazil 🇧🇷. <br>
 
   - *majoring **software engineering** at catolicasc;*
   - *design major (2023);*
-  - *working at trim conteúdo (são paulo) since 2022;*
 
 <span aria-hidden="true" class="icon">__________ ׂׂૢ་༘࿐</span>
 
@@ -62,6 +61,6 @@ badges by <a href="https://github.com/aleen42/badges?tab=readme-ov-file">aleen42
  [ last edit @ mar2024 ]
 
 <!---
-m00n-sh/m00n-sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+leticia-cs/leticia-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
