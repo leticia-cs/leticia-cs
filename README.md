@@ -8,10 +8,11 @@ software engineering student from Brazil 🇧🇷. <br>
 
 ### **current affairs** <span aria-hidden="true" class="icon">´ˎ˗</span>
 
-<img align="right" width="400" height="800" src="https://i.pinimg.com/originals/05/85/c4/0585c4293586457719e5b769bb0e84f1.jpg">
+<img align="right" width="400" height="800" src="https://64.media.tumblr.com/d7dc813b174e7b43d3bcbf1dd5773815/6fd04f06864e90e8-4d/s1280x1920/998b9b4abc9bf431007028a7ed4f9bc8a5ee2886.pnj">
 
-  - *Majoring **software engineering** at catolicasc;*
-  - *Design major (2023);*
+  - *Working as a **front end intern** (web development);*
+  - *Studying **software engineering** at Católica SC;*
+  - *2023 graduate in digital design at PUC-Camp;*
 
 <span aria-hidden="true" class="icon">__________ ׂׂૢ་༘࿐</span>
 
@@ -19,8 +20,6 @@ software engineering student from Brazil 🇧🇷. <br>
 
 #### ➛ **socials** <br><br>
 <a href="https://www.linkedin.com/in/leticiacs-design/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-
 
 #### ➛ **coding** <br><br>
 <a href="HTML"><img src="https://badges.aleen42.com/src/html5.svg" alt="Html"></a>
@@ -54,11 +53,11 @@ software engineering student from Brazil 🇧🇷. <br>
 
 <span aria-hidden="true" class="icon">__________</span> 
 
-### Here is a frog 𓆏
+### Here's a frog 𓆏
 <br>
 <hr>
 miffy by <a href="https://pngtopia.tumblr.com/">pngtopia</a> <br>
-green by ?? <br>
+yellow paint found at <a href="https://www.tumblr.com/kiwibomb/667853599644254208/please-like-or-reblog-if-you-save-it?source=share">kiwibomb</a> <br>
 badges by <a href="https://github.com/aleen42/badges?tab=readme-ov-file">aleen42</a> <br>
 <span aria-hidden="true" class="icon">__________</span> <br>
 <br>
