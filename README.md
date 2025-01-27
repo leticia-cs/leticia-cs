@@ -10,8 +10,8 @@ software engineering student from Brazil 🇧🇷. <br>
 
 <img align="right" width="400" height="800" src="https://i.pinimg.com/originals/05/85/c4/0585c4293586457719e5b769bb0e84f1.jpg">
 
-  - *majoring **software engineering** at catolicasc;*
-  - *design major (2023);*
+  - *Majoring **software engineering** at catolicasc;*
+  - *Design major (2023);*
 
 <span aria-hidden="true" class="icon">__________ ׂׂૢ་༘࿐</span>
 
@@ -23,12 +23,16 @@ software engineering student from Brazil 🇧🇷. <br>
 
 
 #### ➛ **coding** <br><br>
-<a href="HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="HTML"><img src="https://badges.aleen42.com/src/html5.svg" alt="Html"></a>
+<a href="CSS"><img src="https://badges.aleen42.com/src/css3.svg" alt="CSS"></a>
 <br>
-<a href="JavaScript"><img src="https://badges.aleen42.com/src/javascript.svg"></a>
-<a href="Python"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-<a href="C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="JavaScript"><img src="https://badges.aleen42.com/src/javascript.svg" alt="JavaScript"></a>
+<a href="TypeScript"><img src="https://badges.aleen42.com/src/typescript.svg" alt="TypeScript"></a>
+<a href="React"><img src="https://badges.aleen42.com/src/react.svg" alt="React"></a>
+<a href="Nextjs"><img src="https://badges.aleen42.com/src/nextjs.svg" alt="Next.js"></a>
+<br>
+<a href="C"><img src="https://badges.aleen42.com/src/c.svg" alt="C"></a>
+<a href="C++"><img src="https://badges.aleen42.com/src/cpp.svg" alt="C++"></a>
 
 <!--
 ![website_link]
@@ -42,7 +46,7 @@ software engineering student from Brazil 🇧🇷. <br>
 <a href="Hits"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"></a>
 
 #### ➛ **system** <br><br>
-<a href="PC_OS"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="PC_OS"><img src="https://img.shields.io/badge/Linux-505050?style=for-the-badge&logo=linux" alt="Linux"></a>
 <a href="Mobile_OS"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 
 #### ➛ **stats**
@@ -58,7 +62,7 @@ green by ?? <br>
 badges by <a href="https://github.com/aleen42/badges?tab=readme-ov-file">aleen42</a> <br>
 <span aria-hidden="true" class="icon">__________</span> <br>
 <br>
- [ last edit @ jul2024 ]
+ [ last edit @ jan2025 ]
 
 <!---
 leticia-cs/leticia-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
