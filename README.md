@@ -19,9 +19,8 @@
   About Me
 </h2>
 
-<div width="250" height="250" align="right">
-  <img width="250" align="right" src="https://64.media.tumblr.com/7921443b96b8d14ef0c647140a36b564/494d3111feddd2ec-6a/s1280x1920/46a8df1c449bac911bc3d85cd2801c053685f382.gifv" alt="looping particles gif"/>
-</div>
+<img width="25%" align="right" src="./dripForest.gif" alt="looping particles gif"/>
+
 
 <p>Hello! I'm <b><i>Leticia Souza</i></b>, a designer studying software engineering. Beyond working with frontend, I enjoy building empowering tech-related solutions. I also keep an eye open for any and all fun, weird or obscure project ideas.</p>
 
@@ -75,11 +74,11 @@
 <br/>
 
 ```                    
-        /\_____/\                  ︵                            
-       /  o    o \               /  /                          thanks for visiting, meow~  |
-     =       ⩞    =              \  \                                              - lcs   |
-       \         /_______________/  /                     
-==========================================================================================================
+   /\_____/\                  ︵        ======   ||   ||     //\\     ||\\  ||   ||  //        \\  //   //===\\   ||    ||
+  /  o    o \               /  /          ||     ||===||    //==\\    || \\ ||   ||==          \\//    ||   ||   ||    ||
+=       ⩞    =              \  \          ||     ||   ||   //    \\   ||  \\||   ||  \\         ||     \\===//   \\===//
+  \         /_______________/  /       ___________________________________________________________________________________
+  /                            \         ------------------------------------------------------------------------------------
 ```
 
 <br/>
@@ -87,10 +86,12 @@
 
 <div align="right">
 
-> **Credits** <br/>
+> **== Credits ==** <br/>
 > *banner by me* <br/>
-> *banner background image found at ???* <br/>
-> *Fish jar gif by <a href="https://www.tumblr.com/cheezitofthevalley/748665613210222593/more-oceanfish-graphics?source=share">cheezitofthevalley</a>* <br/>
+> *banner background image - ??? [1]* <br/>
+> *Pontilism forest (Cycles) - <a href="https://www.tumblr.com/alcrego/795320190504173568/alcrego-cycles-visual-massage-117-part-of">A. L. Crego</a>* <br/>
+
+> [1] if you know the author, please tell me so that I can add proper credits.
 
 </div>
 
