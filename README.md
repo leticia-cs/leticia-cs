@@ -1,4 +1,4 @@
-# <img src="./bannerTest.png" alt="Welcome to lmlh's github">
+# <img src="./bannerEN.png" alt="Welcome to Leticia's GitHub">
 
 <div align="center">
   <a href="#" target="_blank">
@@ -22,7 +22,7 @@
 <img width="25%" align="right" src="./dripForest.gif" alt="looping particles gif"/>
 
 
-<p>Hello! I'm <b><i>Leticia Souza</i></b>, a designer studying software engineering. Beyond working with frontend, I enjoy building empowering tech-related solutions. I also keep an eye open for any and all fun, weird or obscure project ideas.</p>
+Hello! I'm <b><em>Leticia Souza</em></b>, a designer studying software engineering. Beyond working with frontend, I enjoy building empowering tech-related solutions. I also keep an eye open for any and all fun, weird or obscure project ideas.
 
 - <b><em>Working in frontend development</em></b>
 - <b><em>Studying Software Engineering at Católica SC (UNERJ)</em></b>
@@ -74,11 +74,11 @@
 <br/>
 
 ```                    
-   /\_____/\                  ︵        ======   ||   ||     //\\     ||\\  ||   ||  //        \\  //   //===\\   ||    ||
-  /  o    o \               /  /          ||     ||===||    //==\\    || \\ ||   ||==          \\//    ||   ||   ||    ||
-=       ⩞    =              \  \          ||     ||   ||   //    \\   ||  \\||   ||  \\         ||     \\===//   \\===//
-  \         /_______________/  /       ___________________________________________________________________________________
-  /                            \         ------------------------------------------------------------------------------------
+   /\_____/\                  ︵       ======   ||   ||     //\\     ||\\  ||   ||  //     \\  //   //===\\   ||    ||
+  /  o    o \               /  /         ||     ||===||    //==\\    || \\ ||   ||==        \\//    ||   ||   ||    ||
+=       ⩞    =              \  \         ||     ||   ||   //    \\   ||  \\||   ||  \\       ||     \\===//   \\===//
+  \         /_______________/  /      ___________________________________________________________________________________
+  /                            \        -----------------------------------------------------------------------------------
 ```
 
 <br/>
@@ -89,7 +89,9 @@
 > **== Credits ==** <br/>
 > *banner by me* <br/>
 > *banner background image - ??? [1]* <br/>
+> *badges adapted from <a href="https://github.com/Ileriayo/markdown-badges">markdown-badges</a>* <br/>
 > *Pontilism forest (Cycles) - <a href="https://www.tumblr.com/alcrego/795320190504173568/alcrego-cycles-visual-massage-117-part-of">A. L. Crego</a>* <br/>
+> *layout inspired by <a href="https://github.com/Benjamin-Solano">Benjamin Solano</a>* <br/>
 
 > [1] if you know the author, please tell me so that I can add proper credits.
 
