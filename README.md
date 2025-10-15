@@ -1,15 +1,22 @@
 # <img src="./bannerEN.png" alt="Welcome to Leticia's GitHub">
 
 <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/personal_website-%23000000.svg?style=for-the-badge" alt="Personal website badge">
-  </a>
   <a href="http://www.linkedin.com/in/leticia--cs/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
   <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/!_under_construction_!-%23505050.svg?style=for-the-badge" alt="Personal website badge">
+  </a>
+  <!--
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/personal_website-%23000000.svg?style=for-the-badge" alt="Personal website badge">
+  </a>
+  -->
+  <!--
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-%23000000.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab badge">
   </a>
+  -->
 </div>
 
 <br>
@@ -70,8 +77,17 @@ Hello! I'm <b><em>Leticia Souza</em></b>, a designer studying software engineeri
   Statistics
 </h2>
 
+<div align = "center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=leticia-cs&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=leticia-cs&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leticia-cs&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+</div>
+
 <br/>
 <br/>
+
+<hr/>
 
 ```                    
    /\_____/\                  ︵       ======   ||   ||     //\\     ||\\  ||   ||  //     \\  //   //===\\   ||    ||
@@ -87,13 +103,13 @@ Hello! I'm <b><em>Leticia Souza</em></b>, a designer studying software engineeri
 <div align="right">
 
 > **== Credits ==** <br/>
-> *banner by me* <br/>
-> *banner background image - ??? [1]* <br/>
-> *badges adapted from <a href="https://github.com/Ileriayo/markdown-badges">markdown-badges</a>* <br/>
-> *Pontilism forest (Cycles) - <a href="https://www.tumblr.com/alcrego/795320190504173568/alcrego-cycles-visual-massage-117-part-of">A. L. Crego</a>* <br/>
-> *layout inspired by <a href="https://github.com/Benjamin-Solano">Benjamin Solano</a>* <br/>
-
-> [1] if you know the author, please tell me so that I can add proper credits.
+>
+> *Banner — me* <br/>
+> *Badges — <a href="https://github.com/Ileriayo/markdown-badges">markdown-badges</a>* <br/>
+> *Pontilism forest (Cycles) — <a href="https://www.tumblr.com/alcrego/795320190504173568/alcrego-cycles-visual-massage-117-part-of">A. L. Crego</a>* <br/>
+> *Statistics — <a href="https://github.com/anuraghazra/github-readme-stats">Anurag</a>* <br/>
+>
+> *Layout inspired by <a href="https://github.com/Benjamin-Solano">Benjamin Solano</a>* <br/>
 
 </div>
 
