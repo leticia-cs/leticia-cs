@@ -4,9 +4,6 @@
   <a href="http://www.linkedin.com/in/leticia--cs/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/!_under_construction_!-%23505050.svg?style=for-the-badge" alt="Personal website badge">
-  </a>
   <!--
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/personal_website-%23000000.svg?style=for-the-badge" alt="Personal website badge">
@@ -23,7 +20,7 @@
 
 <h2 align="center">
   <img src=" " alt=""/>
-  About Me
+  𓋹 About Me 
 </h2>
 
 <img width="25%" align="right" src="./dripForest.gif" alt="looping particles gif"/>
@@ -40,8 +37,7 @@ Hello! I'm <b><em>Leticia Souza</em></b>, a designer studying software engineeri
 <br/>
 
 <h2 align="center">
-  <img src="　" alt=""/>
-  Technologies
+  𓍝 Technologies
 </h2>
 
 <div align="center">
@@ -73,8 +69,7 @@ Hello! I'm <b><em>Leticia Souza</em></b>, a designer studying software engineeri
 <br/>
 
 <h2 align="center">
-  <img src=" " alt=""/>
-  Statistics
+ 𓃠 Statistics
 </h2>
 
 <div align = "center"> 
