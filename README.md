@@ -4,6 +4,10 @@
   <a href="http://www.linkedin.com/in/leticia--cs/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
+  <a href="https://leticia-cs.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-%23000000.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="itch.io profile badge">
+  </a>
+  
   <!--
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/personal_website-%23000000.svg?style=for-the-badge" alt="Personal website badge">
