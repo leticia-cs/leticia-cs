@@ -32,10 +32,11 @@
 
 Hello! I'm <b><em>Leticia Souza</em></b>, a designer studying software engineering. Beyond working with frontend, I enjoy building empowering tech-related solutions. I also keep an eye open for any and all fun, weird or obscure project ideas.
 
-- <b><em>Working in frontend development</em></b>
-- <b><em>Studying Software Engineering at Católica SC (UNERJ)</em></b>
-- <b><em>Design bachelor at Pontifícia Universidade Católica de Campinas (PUC-Camp)</em></b>
-- <b><em> Teaching Assistant in Linux & OS, WebDev & UX (2024-2025)</em></b>
+- <em>Working in <b>frontend development</b></em>
+- <em><b>Studying Software Engineering</b> at Católica SC (UNERJ)</em>
+- <em><b>Design bachelor</b> at Pontifícia Universidade Católica de Campinas (PUC-Camp)</em>
+- <em> Teaching Assistant in <b>Linux & OS, WebDev & UX (2024-2025)</b></em>
+- <em><b>Published my first game!</b> Check out the Jam entry <a href="https://leticia-cs.itch.io/encontro-noturno">Encontro Noturno</a> if you know portuguese.</em>
 
 <br/>
 <br/>
